@@ -37,7 +37,7 @@
 				<div class="row">
 					<div class="col-sm-12 text-center">
 						<div class="header-content">
-							<h1>CONQUER</h1>
+							<h1>Web Template</h1>
 							<h4>Simple Bootstrap Template</h4>
 						</div>
 					</div>
