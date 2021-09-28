@@ -38,7 +38,7 @@
 					<div class="col-sm-12 text-center">
 						<div class="header-content">
 							<h1>Web Template</h1>
-							<h4>Simple Bootstrap Template</h4>
+							<h4>Simple Bootstrap Web Template</h4>
 						</div>
 					</div>
 				</div>
